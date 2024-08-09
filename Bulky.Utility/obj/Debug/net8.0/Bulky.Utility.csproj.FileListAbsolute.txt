@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll

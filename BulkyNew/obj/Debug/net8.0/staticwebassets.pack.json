@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyNew.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyNew.bundle.scp.css"
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBookNew.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookNew.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\css\\site.css",
@@ -11,6 +11,34 @@
     {
       "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\02b4841a-4b88-463a-825b-6f33c2e265de.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\02b4841a-4b88-463a-825b-6f33c2e265de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\05812267-74a3-4936-b438-202017ca70b0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\05812267-74a3-4936-b438-202017ca70b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\52405bc0-6577-4957-bfe8-63d2a93a518c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\52405bc0-6577-4957-bfe8-63d2a93a518c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\7af8c7ac-ab77-4faa-9cec-a3b305b1526e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7af8c7ac-ab77-4faa-9cec-a3b305b1526e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\a08eb243-1131-4448-a801-3030afe48815.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a08eb243-1131-4448-a801-3030afe48815.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\b5064049-24d8-4d90-9432-a5af0ad18501.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b5064049-24d8-4d90-9432-a5af0ad18501.jpg"
     },
     {
       "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\js\\site.js",
@@ -245,20 +273,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyNew.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBookNew.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyNew.props",
-      "PackagePath": "build\\BulkyNew.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyBookNew.props",
+      "PackagePath": "build\\BulkyBookNew.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyNew.props",
-      "PackagePath": "buildMultiTargeting\\BulkyNew.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookNew.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookNew.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyNew.props",
-      "PackagePath": "buildTransitive\\BulkyNew.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookNew.props",
+      "PackagePath": "buildTransitive\\BulkyBookNew.props"
     }
   ],
   "ElementsToRemove": []

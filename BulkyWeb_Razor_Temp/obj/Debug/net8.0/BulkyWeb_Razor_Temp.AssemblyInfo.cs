@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyWeb_Razor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc9893169cfc02dc125c14577e948cb2b8443bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e692eeaa5dd4087557bf3af50308d1d0fa8bbc9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyWeb_Razor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyWeb_Razor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
