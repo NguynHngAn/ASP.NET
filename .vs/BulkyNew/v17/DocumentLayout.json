@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,136 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyNew\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyNew\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T03:37:33.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Summary.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "RelativeToolTip": "BulkyNew\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T03:36:04.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "BulkyNew\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE4AAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T03:21:14.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "BulkyNew\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA4wBkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:12:54.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:10:04.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:08:46.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyNew\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:08:13.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShoppingCartVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
-              "RelativeToolTip": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:05:05.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Customer\\Controllers\\CartController.cs",
-              "RelativeToolTip": "BulkyNew\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T02:58:29.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Bulky.Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:20:00.665Z",
-              "EditorCaption": ""
             }
           ]
         }
