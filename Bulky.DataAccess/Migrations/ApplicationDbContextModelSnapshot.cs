@@ -63,6 +63,70 @@ namespace BulkyBook.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("BulkyBook.Models.Company", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PostalCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("State")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StreetAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Companies");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            City = "TPHCM",
+                            Name = "Tech Solution",
+                            PhoneNumber = "0854322366",
+                            PostalCode = "70000",
+                            State = "VN",
+                            StreetAddress = "Q7"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            City = "TPHCM",
+                            Name = "ViVid Books",
+                            PhoneNumber = "0854322322",
+                            PostalCode = "70000",
+                            State = "VN",
+                            StreetAddress = "Q1"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            City = "TPHCM",
+                            Name = "Reader Club",
+                            PhoneNumber = "0854322399",
+                            PostalCode = "70000",
+                            State = "VN",
+                            StreetAddress = "Q4"
+                        });
+                });
+
             modelBuilder.Entity("BulkyBook.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -413,6 +477,9 @@ namespace BulkyBook.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("CompanyId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -425,6 +492,8 @@ namespace BulkyBook.DataAccess.Migrations
 
                     b.Property<string>("StreetAddress")
                         .HasColumnType("nvarchar(max)");
+
+                    b.HasIndex("CompanyId");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -489,6 +558,15 @@ namespace BulkyBook.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("BulkyBook.Models.ApplicationUser", b =>
+                {
+                    b.HasOne("BulkyBook.Models.Company", "Company")
+                        .WithMany()
+                        .HasForeignKey("CompanyId");
+
+                    b.Navigation("Company");
                 });
 #pragma warning restore 612, 618
         }
