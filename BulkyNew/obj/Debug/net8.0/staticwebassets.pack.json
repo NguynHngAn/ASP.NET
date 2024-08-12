@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\02b4841a-4b88-463a-825b-6f33c2e265de.jpg",
       "PackagePath": "staticwebassets\\images\\product\\02b4841a-4b88-463a-825b-6f33c2e265de.jpg"
     },
