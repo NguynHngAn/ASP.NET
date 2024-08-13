@@ -1,6 +1,7 @@
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Uti
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
-C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
