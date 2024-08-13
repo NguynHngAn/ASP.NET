@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BulkyBookBook.Utility
+namespace BulkyBook.Utility
 {
     public static class SD
     {
@@ -25,6 +25,6 @@ namespace BulkyBookBook.Utility
         public const string PaymentStatusDelayedPayment = "ApprovedForDelayedPayment";
         public const string PaymentStatusRejected = "Rejected";
 
-
+        public const string SessionCart = "SessionShoppingCart";
     }
 }
