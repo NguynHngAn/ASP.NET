@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj": {}
+    "D:\\Phattrienungdungtailieu\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj": {
+    "D:\\Phattrienungdungtailieu\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "D:\\Phattrienungdungtailieu\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\obj\\",
+        "projectPath": "D:\\Phattrienungdungtailieu\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Phattrienungdungtailieu\\ASP.NET\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -79,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

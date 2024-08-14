@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyBook.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d6ee14cf00772a72119466d141c9494695c7f50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+923ae33ee175d66c80c6525a08c329a76ce77b71")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyBook.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyBook.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

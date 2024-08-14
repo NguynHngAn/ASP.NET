@@ -11,3 +11,16 @@ C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Uti
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Phattrienungdungtailieu\ASP.NET\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
