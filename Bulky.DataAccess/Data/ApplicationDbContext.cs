@@ -106,7 +106,7 @@ namespace BulkyBook.DataAccess.Data
                     ListPrice = 30,
                     Price = 35,
                     Price50 = 25,
-                    Price100 = 20,
+                    Price100 = 30,
                     CategoryId = 2,
                     ImageUrl = ""
                 },
@@ -120,7 +120,7 @@ namespace BulkyBook.DataAccess.Data
                     ListPrice = 25,
                     Price = 30,
                     Price50 = 22,
-                    Price100 = 20,
+                    Price100 = 25,
                     CategoryId = 3,
                     ImageUrl = ""
                 }
