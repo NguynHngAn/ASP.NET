@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\",
+  "WorkspaceRootPath": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\binhl\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\asp.net\\bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\binhl\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\asp.net\\bulkynew\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\binhl\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\asp.net\\bulkynew\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\binhl\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\asp.net\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\binhl\\onedrive\\m\u00E1y t\u00EDnh\\asp.net\\asp.net\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,61 +30,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDgAAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:58:07.241Z",
+              "WhenOpened": "2024-08-14T04:32:22.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
-              "RelativeDocumentMoniker": "BulkyNew\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
-              "RelativeToolTip": "BulkyNew\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-14T01:57:14.465Z",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:31:39.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyNew\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
-              "RelativeToolTip": "BulkyNew\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\BulkyNew\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\BulkyNew\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyNew\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T04:31:08.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\BulkyNew\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\BulkyNew\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BulkyNew\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T04:30:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\binhl\\OneDrive\\M\u00E1y t\u00EDnh\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:57:13.775Z",
+              "WhenOpened": "2024-08-14T01:58:07.241Z",
               "EditorCaption": ""
             }
           ]

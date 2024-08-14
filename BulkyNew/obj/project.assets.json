@@ -14094,26 +14094,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\binhl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\BulkyBookNew.csproj",
+      "projectUniqueName": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\BulkyBookNew.csproj",
       "projectName": "BulkyBookNew",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\BulkyBookNew.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\obj\\",
+      "projectPath": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\BulkyBookNew.csproj",
+      "packagesPath": "C:\\Users\\binhl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\binhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -14121,14 +14120,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
+            "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
             },
-            "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\BulkyBook.Models.csproj"
+            "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.Models\\BulkyBook.Models.csproj"
             },
-            "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Utility\\BulkyBook.Utility.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Utility\\BulkyBook.Utility.csproj"
+            "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\Bulky.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }
@@ -14206,7 +14205,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,3 +11,16 @@ C:\Users\ACER\source\repos\BulkyNew\Bulky.Models\obj\Debug\net8.0\BulkyBook.Mode
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
 C:\Users\ACER\source\repos\BulkyNew\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\binhl\OneDrive\Máy tính\ASP.Net\ASP.NET\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
