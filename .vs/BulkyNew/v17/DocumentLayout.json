@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C03D2A2-22CF-4209-AE94-FA8FC1FEE648}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +54,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyNew\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyNew\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:04:36.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDgAAAAvAAAA",
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BulkyNew\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BulkyNew\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:04:24.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:58:07.241Z",
+              "WhenOpened": "2024-08-14T03:51:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.js",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "BulkyNew\\wwwroot\\js\\user.js",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "BulkyNew\\wwwroot\\js\\user.js",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T03:30:11.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BulkyNew\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:16:28.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
-              "RelativeDocumentMoniker": "BulkyNew\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
-              "RelativeToolTip": "BulkyNew\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-14T01:57:14.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyNew\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
-              "RelativeToolTip": "BulkyNew\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BulkyNew\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BulkyNew\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswEUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T01:57:13.775Z",
+              "WhenOpened": "2024-08-14T03:05:41.987Z",
               "EditorCaption": ""
             }
           ]
