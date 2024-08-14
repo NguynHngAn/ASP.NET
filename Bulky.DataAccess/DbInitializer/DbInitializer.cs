@@ -54,7 +54,7 @@ namespace BulkyBook.DataAccess.DbInitializer
                     UserName = "admin@gmail.com",
                     Email = "admin@gmail.com",
                     Name = "Nguyen Hong An",
-                    PhoneNumber = "0854322366",
+                    PhoneNumber = "0854111166",
                     StreetAddress = "62 Lam Van Ben",
                     State = "VN",
                     PostalCode = "70000",
