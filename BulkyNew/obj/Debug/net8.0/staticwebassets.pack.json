@@ -29,7 +29,19 @@
       "PackagePath": "staticwebassets\\images\\product\\05812267-74a3-4936-b438-202017ca70b0.jpg"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\wwwroot\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg",
+=======
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\1f06e4db-ccff-40e1-bdf4-841c331d410d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1f06e4db-ccff-40e1-bdf4-841c331d410d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\47070f13-f22e-4b83-ad51-4e823b85fe39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\47070f13-f22e-4b83-ad51-4e823b85fe39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg",
+>>>>>>> ecf629bd183dc2d2338a79a3d4dc01764c8be004
       "PackagePath": "staticwebassets\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg"
     },
     {
@@ -45,7 +57,15 @@
       "PackagePath": "staticwebassets\\images\\product\\7af8c7ac-ab77-4faa-9cec-a3b305b1526e.jpg"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\wwwroot\\images\\product\\a08eb243-1131-4448-a801-3030afe48815.jpg",
+=======
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\9df344e1-c116-448d-af99-ccc3a068287e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9df344e1-c116-448d-af99-ccc3a068287e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\a08eb243-1131-4448-a801-3030afe48815.jpg",
+>>>>>>> ecf629bd183dc2d2338a79a3d4dc01764c8be004
       "PackagePath": "staticwebassets\\images\\product\\a08eb243-1131-4448-a801-3030afe48815.jpg"
     },
     {
@@ -53,7 +73,23 @@
       "PackagePath": "staticwebassets\\images\\product\\b5064049-24d8-4d90-9432-a5af0ad18501.jpg"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\binhl\\OneDrive\\Máy tính\\ASP.Net\\ASP.NET\\BulkyNew\\wwwroot\\js\\site.js",
+=======
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\da940f47-1b64-4512-a700-e477d1666a0e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\da940f47-1b64-4512-a700-e477d1666a0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\f556e343-f8fa-4f17-81d3-41401dabf3dc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f556e343-f8fa-4f17-81d3-41401dabf3dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\images\\product\\f8d54f7a-3c33-40f3-89c7-047f5f68277f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f8d54f7a-3c33-40f3-89c7-047f5f68277f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\wwwroot\\js\\site.js",
+>>>>>>> ecf629bd183dc2d2338a79a3d4dc01764c8be004
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
