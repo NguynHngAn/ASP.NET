@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC10C3-7EFF-4C91-81C4-CF0EEB162C92}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|c:\\users\\acer\\source\\repos\\bulkynew\\bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D47235-6856-4983-A906-265BA6D5E13D}|BulkyNew\\BulkyBookNew.csproj|solutionrelative:bulkynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +39,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:58:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyNew\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\appsettings.json",
+              "RelativeToolTip": "BulkyNew\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T01:57:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyNew\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\BulkyNew\\BulkyNew\\Program.cs",
+              "RelativeToolTip": "BulkyNew\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:57:13.775Z",
+              "EditorCaption": ""
             }
           ]
         }
