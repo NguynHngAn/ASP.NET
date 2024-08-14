@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UFBYbF277vdOOm+i9+OLE7kLlyVvt9LorEeL/0mE4No=",
+  "Hash": "mkwWcY443t5IP6gpMc71UBZ6NDPYWiZGetarXgNAVt4=",
   "Source": "BulkyBookNew",
   "BasePath": "_content/BulkyBookNew",
   "Mode": "Default",
@@ -1307,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\05812267-74a3-4936-b438-202017ca70b0.jpg"
+    },
+    {
+      "Identity": "D:\\Phattrienungdungtailieu\\ASP.NET\\BulkyNew\\wwwroot\\images\\product\\47595b9c-cfe7-4bf0-acfd-6dafc955d256.png",
+      "SourceId": "BulkyBookNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Phattrienungdungtailieu\\ASP.NET\\BulkyNew\\wwwroot\\",
+      "BasePath": "_content/BulkyBookNew",
+      "RelativePath": "images/product/47595b9c-cfe7-4bf0-acfd-6dafc955d256.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\47595b9c-cfe7-4bf0-acfd-6dafc955d256.png"
     },
     {
       "Identity": "D:\\Phattrienungdungtailieu\\ASP.NET\\BulkyNew\\wwwroot\\images\\product\\513d35d1-6b72-4a92-a696-8770a4e0e466.jpg",

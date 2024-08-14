@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyBookNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2c64c58eefe9bfe9777b9e988b7a7ff71a74793")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyBookNew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyBookNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
